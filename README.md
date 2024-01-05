@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-#Online Food Ordering App
+# Online Food Ordering App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and used Tailwind.css also.
 
 ## Available Scripts
